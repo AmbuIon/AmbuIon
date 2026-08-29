@@ -1,5 +1,5 @@
   <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AmbuIon&label=____________+𝐩𝐚𝐭𝐢𝐞𝐧𝐭𝐬 𝐜𝐮𝐫𝐞𝐝+____________&color=c2535f">
+<img src="https://komarev.com/ghpvc/?username=AmbuIon&label=____________+𝐩𝐚𝐭𝐢𝐞𝐧𝐭𝐬+𝐜𝐮𝐫𝐞𝐝+____________&color=c2535f">
   </p>
 
 <p align="center">
