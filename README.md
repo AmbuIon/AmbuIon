@@ -7,9 +7,9 @@
 </p>
   
   <p align="center">
-${\Large\text{\color{#4b3943}" le\color{#543e51}t m\color{#5a445c}e b\color{#605068}e h\color{#6c647b}on\color{#9e4967}es\color{#c04f5b}t w\color{#c75f6b}it\color{#cf7a84}h m\color{#dd9ca3}e , }}$
+${\text{\color{#4b3943}" 𝐥𝐞\color{#543e51}𝐭 𝐦\color{#5a445c}𝐞 𝐛\color{#605068}𝐞 𝐡\color{#6c647b}𝐨𝐧\color{#9e4967}𝐞𝐬\color{#c04f5b}𝐭 𝐰\color{#c75f6b}𝐢𝐭\color{#cf7a84}𝐡 𝐦\color{#dd9ca3}𝐞 , }}$
   </p>
 
   <p align="center">
-${\Large\text{\color{#4b3943} you \color{#543e51}got \color{#5a445c}pr\color{#605068}obl\color{#6c647b}ems\color{#9e4967} wi\color{#c04f5b}th \color{#c75f6b}ho\color{#cf7a84}ne\color{#dd9ca3}sty . "}}$
+${\text{\color{#4b3943} 𝐲𝐨𝐮 \color{#543e51}𝐠𝐨𝐭 \color{#5a445c}𝐩𝐫\color{#605068}𝐨𝐛𝐥\color{#6c647b}𝐞𝐦𝐬\color{#9e4967} 𝐰𝐢\color{#c04f5b}𝐭𝐡 \color{#c75f6b}𝐡𝐨\color{#cf7a84}𝐧𝐞\color{#dd9ca3}𝐬𝐭𝐲 . "}}$
   </p>
